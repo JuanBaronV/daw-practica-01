@@ -45,4 +45,42 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 [2]: https://github.com
 
 
-![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
+![](https://https://github.com/JuanBaronV/daw-practica-01/blob/main/images/FdwnTQvWQAQ8ChE.png)
+
+* Item 1
+* Item 2
+* Item 3
+* Item 4
+
+* Item 1
+  * Item 1.1
+  * Item 1.2
+* Item 2
+  * Item 2.1
+* Item 3
+* Item 4
+
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+
+1. Item 1  
+  1.1 Item 1.1  
+  1.2 Item 1.2  
+2. Item 2  
+  2.1 Item 2.1  
+3. Item 3  
+4. Item 4  
+
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3
+| --- | --- | --- | ---
+| Fila 1.1 | Fila 1.2 | Fila 1.3
+| Fila 2.1 | Fila 2.2 | Fila 2.3
+| Fila 3.1 | Fila 3.2 | Fila 3.3
+
+Este texto no es una cita.
+> Este texto daría como resultado una cita.
+
+<!- Este texto es un comentario y no será renderizado -->
